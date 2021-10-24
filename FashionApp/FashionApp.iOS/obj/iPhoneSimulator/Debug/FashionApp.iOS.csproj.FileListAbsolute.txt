@@ -1,0 +1,133 @@
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/FashionApp.iOS.exe
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/FashionApp.iOS.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/CarouselView.FormsPlugin.Abstractions.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/CarouselView.FormsPlugin.iOS.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/FashionApp.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/bin/iPhoneSimulator/Debug/FashionApp.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/FashionApp.iOS.csproj.AssemblyReference.cache
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/FashionApp.iOS.csproj.CoreCompileInputs.cache
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/FashionApp.iOS.csproj.CopyComplete
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/FashionApp.iOS.exe
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/FashionApp.iOS.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_PartialAppManifest.items
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_PartialAppManifest.items
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/add.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/add@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/add@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cart.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cart@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cart@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cartFilled.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cartFilled@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/cartFilled@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/classic.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/classic@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/classic@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/collections.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/collections@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/collections@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/dressShoe.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/dressShoe@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/dressShoe@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/elegantCol.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/elegantCol@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/elegantCol@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/explore.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/explore@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/explore@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/fav.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/fav@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/fav@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/floral.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/floral@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/floral@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heart.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heart@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heart@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heartCircle.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heartCircle@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heartCircle@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heeledShoe.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heeledShoe@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/heeledShoe@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/leatherBag.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/leatherBag@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/leatherBag@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlay.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlay@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlay@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlayCol.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlayCol@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/overlayCol@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/satchel.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/satchel@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/satchel@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/shop.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/shop@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/shop@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/summerCol.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/summerCol@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/summerCol@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/user.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/user@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/user@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/womenCol.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/womenCol@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/womenCol@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/watches@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/coats.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/coats@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/coats@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/minidress.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/minidress@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/minidress@3x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/watches.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/watches@2x.png
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.5/optimized/

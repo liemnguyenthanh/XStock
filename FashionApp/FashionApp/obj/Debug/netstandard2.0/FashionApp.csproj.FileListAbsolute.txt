@@ -1,0 +1,17 @@
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/bin/Debug/netstandard2.0/FashionApp.deps.json
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/bin/Debug/netstandard2.0/FashionApp.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/bin/Debug/netstandard2.0/FashionApp.pdb
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.csproj.AssemblyReference.cache
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/Views/CollectionsPage.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/Views/ExplorePage.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/Views/ProfilePage.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/Views/ShopPage.xaml.g.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.AssemblyInfoInputs.cache
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.AssemblyInfo.cs
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.csproj.CoreCompileInputs.cache
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.dll
+/Users/liemnguyen/Documents/FashionApp-master/FashionApp/FashionApp/obj/Debug/netstandard2.0/FashionApp.pdb
