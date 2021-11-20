@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectMobile.ThanhToan">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Padding="10">
+            <Image Source="Product.jpg" WidthRequest="180" Margin="0, 10"></Image>
+            <Label Text="Highest Bid 194 US$ | Lowest Ask 228 US$" HorizontalOptions="Center"></Label>
+            <Label Text="U.S. Women's Size: 5W" HorizontalOptions="Center" Margin="0, 0, 0, 30"></Label>
+            <Grid>
+                <Button Text="Place Bid" TextColor="Black" FontAttributes="Bold" 
+                        HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                        Padding="10, 10" CornerRadius="20" WidthRequest="215"></Button>
+                <Button Text="Buy Now" TextColor="White" FontAttributes="Bold" 
+                        BackgroundColor="Green" VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="EndAndExpand"
+                        Padding="10, 10" CornerRadius="20" WidthRequest="215"></Button>
+            </Grid>
+            <Frame Margin="0, 10" Padding="0" BorderColor="LightGray" HasShadow="False">
+                <FlexLayout>
+                    <Frame HasShadow="False" BorderColor="Gray" BackgroundColor="LightGray">
+                        <Label Text="US$" TextColor="Black" FontAttributes="Bold" FontSize="Medium"></Label>
+                    </Frame>
+                    <Frame HasShadow="False" BackgroundColor="Transparent">
+                        <Label Text="228" TextColor="Black" FontAttributes="Bold" FontSize="Medium"></Label>
+                    </Frame>
+                </FlexLayout>
+            </Frame>
+            <Label Text="You're about to purchase this item" HorizontalOptions="Center"></Label>
+            <Label Text="Or Buy Now for as low as $24/month with affirm" HorizontalOptions="Center" Margin="0, 0, 0, 30"></Label>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Text="Processing Fee" TextColor="Black" HorizontalOptions="StartAndExpand"
+                       Grid.Row="0" Grid.Column="0" FontSize="18"></Label>
+                <Label Text="+6.84 US$" TextColor="Black" HorizontalOptions="EndAndExpand"
+                       Grid.Row="0" Grid.Column="1" FontSize="18"></Label>
+                <Label Text="Shipping" TextColor="Black" HorizontalOptions="StartAndExpand"
+                       Grid.Row="1" Grid.Column="0" FontSize="18"></Label>
+                <Label Text="+30.0 US$" TextColor="Black" HorizontalOptions="EndAndExpand"
+                       Grid.Row="1" Grid.Column="1" FontSize="18"></Label>
+                <Label Text="Discount" TextColor="Black" HorizontalOptions="StartAndExpand"
+                       Grid.Row="2" Grid.Column="0" FontSize="18"></Label>
+                <Button Text="Add Discount +" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand"
+                       Grid.Row="2" Grid.Column="1" FontSize="13" BackgroundColor="Transparent" Padding="0" HeightRequest="26"></Button>
+                <BoxView HeightRequest="1" BackgroundColor="Gray" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                         VerticalOptions="StartAndExpand"></BoxView>
+                <Label Text="Total (USD)" FontAttributes="Bold" TextColor="Black" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                       Grid.Row="3" Grid.Column="0" FontSize="18" Margin="0, 3"></Label>
+                <Label Text="264,84 US$" FontAttributes="Bold" TextColor="Black" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"
+                       Grid.Row="3" Grid.Column="1" FontSize="18"></Label>
+            </Grid>
+            <Button Text="Next" TextColor="Black" BackgroundColor="Green" Margin="0, 25"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

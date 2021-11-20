@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectMobile.MainPage">
+
+    <StackLayout Padding="10">
+        <Button Text="Giao diện chọn hàng" Clicked="Button_Clicked"></Button>
+        <Button Text="Giao diện chọn size" Clicked="Button_Clicked_1"></Button>
+        <Button Text="Giao diện thanh toán" Clicked="Button_Clicked_2"></Button>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectMobile.ChonSize">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Image Source="Product.jpg" WidthRequest="180"></Image>
+            <Frame>
+                <Grid>
+                    <Label Text="Select U.S Women's Size" FontAttributes="Bold" TextColor="Black" FontSize="17"></Label>
+                    <Label Text="Size Chart" TextColor="Green" HorizontalOptions="EndAndExpand"></Label>
+                </Grid>
+            </Frame>
+            <FlexLayout Margin="10" AlignItems="Center" Wrap="Wrap" JustifyContent="SpaceEvenly">
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame HasShadow="False" Padding="17" BorderColor="Gray" Margin="0, 0, 0, 5">
+                    <StackLayout>
+                        <Label Text="US 5W" FontAttributes="Bold" TextColor="Black"></Label>
+                        <Label Text="228 US$" FontAttributes="Bold" TextColor="Green"></Label>
+                    </StackLayout>
+                </Frame>
+            </FlexLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
