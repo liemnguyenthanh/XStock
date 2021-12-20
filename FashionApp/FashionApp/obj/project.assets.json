@@ -588,24 +588,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/liemnguyen/.nuget/packages/": {}
+    "C:\\Users\\19521\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/liemnguyen/Projects/XStock/FashionApp/FashionApp/FashionApp.csproj",
+      "projectUniqueName": "E:\\Documents\\HK1-2122\\Mobile\\XStock\\FashionApp\\FashionApp\\FashionApp.csproj",
       "projectName": "FashionApp",
-      "projectPath": "/Users/liemnguyen/Projects/XStock/FashionApp/FashionApp/FashionApp.csproj",
-      "packagesPath": "/Users/liemnguyen/.nuget/packages/",
-      "outputPath": "/Users/liemnguyen/Projects/XStock/FashionApp/FashionApp/obj/",
+      "projectPath": "E:\\Documents\\HK1-2122\\Mobile\\XStock\\FashionApp\\FashionApp\\FashionApp.csproj",
+      "packagesPath": "C:\\Users\\19521\\.nuget\\packages\\",
+      "outputPath": "E:\\Documents\\HK1-2122\\Mobile\\XStock\\FashionApp\\FashionApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/liemnguyen/.config/NuGet/NuGet.Config"
+        "C:\\Users\\19521\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -653,7 +660,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

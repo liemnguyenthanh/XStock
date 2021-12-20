@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectMobile.Account"
+             Title="Account">
+    <ContentPage.Content>
+        <StackLayout Margin="0, 30, 0, 0">
+            <Image Source="https://assets.remotelywecode.com/stockx-company-logo.png"></Image>
+            <Label Text="Log in or create an account to manage your Portfolio, Bids and Asks"
+                   HorizontalTextAlignment="Center" Padding="40, 20" TextColor="Black"
+                   FontSize="15"></Label>
+            <Button Text="Sign Up" HorizontalOptions="Center" BackgroundColor="Transparent"
+                        BorderWidth="1" BorderColor="Gray" CornerRadius="10" TextTransform="None"
+                        TextColor="DarkGreen" FontAttributes="Bold" CharacterSpacing="2"></Button>
+            <Button Text="Already have an account?" HorizontalOptions="Center"
+                    BackgroundColor="Transparent" TextTransform="None"></Button>
+            <Button Text="Log In" HorizontalOptions="Center" CharacterSpacing="1"
+                    BackgroundColor="Transparent" FontAttributes="Bold" TextColor="DarkGreen"
+                    TextTransform="None"></Button>
+            <BoxView HorizontalOptions="Center" Color="Gray" HeightRequest="1" WidthRequest="100"></BoxView>
+            <Button Text="Blog" HorizontalOptions="Center"
+                    BackgroundColor="Transparent" VerticalOptions="Start" TextColor="DarkGreen"
+                    TextTransform="None"></Button>
+            <Button Text="Help" HorizontalOptions="Center" BackgroundColor="Transparent"
+                    TextColor="DarkGreen" TextTransform="None"></Button>
+            <Button Text="How It Works" HorizontalOptions="Center" BackgroundColor="Transparent"
+                    TextColor="DarkGreen" TextTransform="None"></Button>
+            <Button Text="Reviews" HorizontalOptions="Center" BackgroundColor="Transparent"
+                    TextColor="DarkGreen" TextTransform="None"></Button>
+            <Button Text="Currency" HorizontalOptions="Center" BackgroundColor="Transparent"
+                    TextColor="DarkGreen" TextTransform="None"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectMobile.TimKiem"
+             Title="Giao diện tìm kiếm">
+    <ScrollView>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <BoxView Color="LightGray" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" VerticalOptions="End" HeightRequest="1"></BoxView>
+                <Button Clicked="btn_sneakers_Clicked" x:Name="btn_sneakers" Text="SNEAKERS" Grid.Row="0" Grid.Column="0" BackgroundColor="Transparent" FontSize="20" FontAttributes="Bold"></Button>
+                <BoxView x:Name="boxview_sneakers" Color="DarkGreen" Grid.Row="0" Grid.Column="0" VerticalOptions="End" HeightRequest="3"></BoxView>
+                <BoxView x:Name="boxview_shirts" IsVisible="False" Color="DarkGreen" Grid.Row="0" Grid.Column="1" VerticalOptions="End" HeightRequest="3"></BoxView>
+                <Button Clicked="btn_shirts_Clicked" x:Name="btn_shirts" TextColor="Gray" Text="SHIRTS" Grid.Row="0" Grid.Column="1" BackgroundColor="Transparent" FontSize="20" FontAttributes="Bold"></Button>
+                <BoxView x:Name="boxview_trousers" IsVisible="False" Color="DarkGreen" Grid.Row="0" Grid.Column="2" VerticalOptions="End" HeightRequest="3"></BoxView>
+                <Button Clicked="btn_trousers_Clicked" x:Name="btn_trousers" TextColor="Gray" Text="TROUSERS" Grid.Row="0" Grid.Column="2" BackgroundColor="Transparent" FontSize="20" FontAttributes="Bold"></Button>
+            </Grid>
+            <FlexLayout Wrap="Wrap" x:Name="Sneakers">
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+            </FlexLayout>
+            <FlexLayout Wrap="Wrap" x:Name="Shirts" IsVisible="False">
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+            </FlexLayout>
+            <FlexLayout Wrap="Wrap" x:Name="Trousers" IsVisible="False">
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+                <Grid HeightRequest="280">
+                    <StackLayout Padding="10" WidthRequest="175">
+                        <Image Source="https://images.milledcdn.com/2021-07-31/iyMxJvItyy0CmfnN/sbhk8r_iwMu5.png"
+                           WidthRequest="130" HeightRequest="130" HorizontalOptions="Center"></Image>
+                        <Label Text="Jordan 11 Retro" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="Cool Grey (2021)" TextColor="Black" Margin="10, 0"></Label>
+                        <Label Text="Lowest Ask" FontAttributes="Italic" TextColor="Black" Margin="10, 10, 0, 0"></Label>
+                        <Label Text="270 US$" FontAttributes="Bold" TextColor="Black" Margin="10, 0"></Label>
+                    </StackLayout>
+                    <Button BackgroundColor="Transparent" BorderWidth="1" BorderColor="LightGray"></Button>
+                </Grid>
+            </FlexLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

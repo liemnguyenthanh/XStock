@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "HuFIrve5bltDkCWK3rIA4isKNhuhKhjw5ton7vud5FSI/NN9Z/n1vl0hgzZiRlVEiK6BP8uLWyfhWjRVtiboxw==",
+  "dgSpecHash": "EqWwPBkCuLvQ52hkI6GhF6qYCSo/uD+YxgsV3xdrWug8d9xF6RXo9e4if7QRh511sMqFs53QVcqD1qCC1qkbHA==",
   "success": true,
-  "projectFilePath": "/Users/liemnguyen/Projects/XStock/FashionApp/FashionApp/FashionApp.csproj",
+  "projectFilePath": "E:\\Documents\\HK1-2122\\Mobile\\XStock\\FashionApp\\FashionApp\\FashionApp.csproj",
   "expectedPackageFiles": [
-    "/Users/liemnguyen/.nuget/packages/carouselview.formsplugin/5.2.0/carouselview.formsplugin.5.2.0.nupkg.sha512",
-    "/Users/liemnguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/liemnguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/liemnguyen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/liemnguyen/.nuget/packages/xamarin.essentials/1.1.0/xamarin.essentials.1.1.0.nupkg.sha512",
-    "/Users/liemnguyen/.nuget/packages/xamarin.forms/4.1.0.673156/xamarin.forms.4.1.0.673156.nupkg.sha512"
+    "C:\\Users\\19521\\.nuget\\packages\\carouselview.formsplugin\\5.2.0\\carouselview.formsplugin.5.2.0.nupkg.sha512",
+    "C:\\Users\\19521\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\19521\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\19521\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\19521\\.nuget\\packages\\xamarin.essentials\\1.1.0\\xamarin.essentials.1.1.0.nupkg.sha512",
+    "C:\\Users\\19521\\.nuget\\packages\\xamarin.forms\\4.1.0.673156\\xamarin.forms.4.1.0.673156.nupkg.sha512"
   ],
   "logs": []
 }

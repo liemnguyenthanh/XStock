@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s6epDYcqbzHVfUfU1hTICWJPpUZx1az35kQPmtnuEWEnnk/K1VjqDUaKo+MNg5ydm2SyHswC770CuRKe1rJ9Sw==",
+  "dgSpecHash": "4rEx2Hjbf5pZN1LEY5R7zjcNYUfAJ6pzI3RbrmNKrHZ8LdqFhiFnbmoXV0VrDj6yTZsHsLeZiO1Cl8VJZxCsHQ==",
   "success": true,
-  "projectFilePath": "E:\\Documents\\HK1-2122\\Mobile\\ProjectMobile\\ProjectMobile\\ProjectMobile.Android\\ProjectMobile.Android.csproj",
+  "projectFilePath": "E:\\Documents\\HK1-2122\\Mobile\\XStock\\ProjectMobile\\ProjectMobile\\ProjectMobile.Android\\ProjectMobile.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\19521\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\19521\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\19521\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\19521\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
@@ -63,5 +64,16 @@
     "C:\\Users\\19521\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\19521\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2291 to 5.0.0.2196. Reference the package directly from the project to select a different version. \r\n ProjectMobile.Android -> ProjectMobile -> Xamarin.Forms (>= 5.0.0.2291) \r\n ProjectMobile.Android -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v12.0"
+      ]
+    }
+  ]
 }

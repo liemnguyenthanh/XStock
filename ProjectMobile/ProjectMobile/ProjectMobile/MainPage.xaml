@@ -7,6 +7,19 @@
         <Button Text="Giao diện chọn hàng" Clicked="Button_Clicked"></Button>
         <Button Text="Giao diện chọn size" Clicked="Button_Clicked_1"></Button>
         <Button Text="Giao diện thanh toán" Clicked="Button_Clicked_2"></Button>
+        <Button Text="Test API" Clicked="Button_Clicked_3"></Button>
+        <Button Text="Giao diện Account" Clicked="Button_Clicked_4"></Button>
+        <Button Text="Giao diện đăng ký, đăng nhập" Clicked="Button_Clicked_5"></Button>
+        <Button Text="Giao diện tìm kiếm" Clicked="Button_Clicked_6"></Button>
+        <Button Text="Giao diện trang chủ" Clicked="Button_Clicked_7"></Button>
+        <Label x:Name="display"></Label>
+        <ListView x:Name="lstTest">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding title}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 
 </ContentPage>
